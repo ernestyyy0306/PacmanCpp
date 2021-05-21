@@ -1,0 +1,22 @@
+			
+			GAME PROGRAMMERS:
+			ERNEST YAP YONGYI
+			WOON WEI LIANG
+			CHEONG MEI YUET
+
+			LEVEL DESIGNER:
+			ERNEST YAP YONGYI
+
+			MAP DESIGNER:
+			WOON WEI LIANG
+
+			USER INTERFACE DESIGN:
+			WOON WEI LIANG
+
+			COLOR EDITOR:
+			CHEONG MEI YUET
+
+                        INTEGRATOR:
+			CHEONG MEI YUET
+
+                                                  BACK
